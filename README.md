@@ -22,6 +22,14 @@ Map
 If a player goes off one side of the screen they will come out of the other one, this does not work vertically, if the player touches the top wall or the floor they will stop
 The Pufferfish can use the pillar as protection from the Seahorses bubbles because they cannot pass through it
 
+
 Game end
 A round is finshed when one players health reaches 0, at which time the players can start a new round by pressing p or exit the program with Escape
 The number of rounds won (score) of each player is displayed at the top left and top right of the screen
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/45246430/117521606-9c6b1100-af7c-11eb-9d4c-121b7220b003.png" width="400"/>
+  <img src="https://user-images.githubusercontent.com/45246430/117521610-9f660180-af7c-11eb-9669-a7c03d59fa95.png" width="400"/>
+  <img src="https://user-images.githubusercontent.com/45246430/117521611-a0972e80-af7c-11eb-90ac-99a0e1a98869.png" width="400"/>
+  <img src="https://user-images.githubusercontent.com/45246430/117521612-a0972e80-af7c-11eb-9dcf-00468f7fab4b.png" width="400"/>
+</p>
